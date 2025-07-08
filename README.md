@@ -1,49 +1,48 @@
-# Create the README.md content as a string
-
-readme_content = """
-
 # 📊 EHealthDesk Dashboard
 
-Welcome to the **EHealthDesk Dashboard** project, a comprehensive healthcare analytics dashboard built using **Power BI** and the `eHealthDesk Data Set`. This project provides an interactive visualization of hospital and patient summaries, aimed at improving decision-making in healthcare operations.
+Welcome to the **EHealthDesk Dashboard** — a modern, interactive healthcare analytics solution built with **Power BI** and the `eHealthDesk Data Set`.  
+This dashboard empowers healthcare professionals with actionable insights, helping drive smarter decisions and better patient outcomes.
 
 ---
 
-## 📁 Dataset
+## 📁 Dataset Overview
 
-- **Name**: eHealthDesk Data Set
-- **Source**: Internal (synthetic data generated for project purpose)
-- **Contents**:
-  - Patient demographics
-  - Departmental ER statistics
-  - Revenue by age group
-  - Patient feedback
-  - Bed occupancy
-  - LOS (Length of Stay) analysis
-  - In-patient/out-patient summaries
+- **Dataset Name:** `eHealthDesk Data Set`
+- **Source:** 🏥 *Synthetic data generated for project demonstration*
+- **Includes:**
+  - 👤 Patient Demographics
+  - 🏥 Departmental ER Statistics
+  - 💰 Revenue by Age Group
+  - 📝 Patient Feedback & Sentiment
+  - 🛏️ Bed Occupancy
+  - ⏱️ LOS (Length of Stay) Analysis
+  - 🩺 In-Patient & Out-Patient Summaries
 
 ---
 
-## 📌 Key Features
+## ✨ Key Features
 
-### ✅ Hospital Summary Dashboard
+### 🏥 Hospital Summary Dashboard
 
-- Total Patients, ICU, Admitted, Discharge, Death, Total Revenue
-- Bed Occupancy Status
-- Department-wise In-Patient Status (Normal, ICU, Death, Discharge, Readmit)
-- LOS (Length of Stay) Summary
-- Average LOS by Age Group
-- Gender Distribution
+- **KPIs:** Total Patients, ICU, Admitted, Discharged, Deaths, Total Revenue
+- **Bed Occupancy:** Real-time status & trends
+- **Department-wise In-Patient Status:** Normal, ICU, Death, Discharge, Readmit
+- **LOS (Length of Stay):** Summary & trends
+- **Average LOS by Age Group**
+- **Gender Distribution**
 
-### ✅ Patients Summary Dashboard
+---
 
-- Avg Treatment Cost and Avg ER Time
-- Patient Staff Ratio
-- Avg ER Time by Department
-- Doctor Feedback on Treatment Clarity
-- Total Revenue by Age Bucket
-- Rating by Age Group
-- Patient Sentiment (Positive/Negative/Neutral)
-- Weekly In & Out Analysis
+### 👨‍⚕️ Patients Summary Dashboard
+
+- **Avg Treatment Cost & ER Time**
+- **Patient-Staff Ratio**
+- **Avg ER Time by Department**
+- **Doctor Feedback on Treatment Clarity**
+- **Total Revenue by Age Bucket**
+- **Rating by Age Group**
+- **Patient Sentiment:** Positive / Negative / Neutral
+- **Weekly In & Out Analysis**
 
 ---
 
