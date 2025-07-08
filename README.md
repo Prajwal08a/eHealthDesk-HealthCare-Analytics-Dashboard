@@ -8,7 +8,7 @@ This dashboard empowers healthcare professionals with actionable insights, helpi
 ## 📁 Dataset Overview
 
 - **Dataset Name:** `eHealthDesk Data Set`
-- **Source:** 🏥 *Synthetic data generated for project demonstration*
+- **Source:** 🏥 _Synthetic data generated for project demonstration_
 - **Includes:**
   - 👤 Patient Demographics
   - 🏥 Departmental ER Statistics
